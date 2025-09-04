@@ -49,8 +49,8 @@ A full-stack web application designed to showcase and sell handmade charms onlin
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/charms-store.git
-cd charms-store
+git clone https://github.com/An-on/Thegallery.git
+cd Thegallery
 ```
 
 ## Setup Backend
