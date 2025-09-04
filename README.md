@@ -111,16 +111,6 @@ npm start
 
 ---
 
-# Future Improvements
-
-* Payment gateway integration (Stripe/PayPal)
-* Search & filters for products
-* Wishlist functionality
-* Email notifications for orders
-* Admin analytics dashboard
-
----
-
 # Author
 **Anga’s Gallery** – Handmade charms collection
 By Gannon Mossang
