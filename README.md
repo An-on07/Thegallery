@@ -1,9 +1,9 @@
 # Thegallery
 A full-stack web application designed to showcase and sell handmade charms online. The main objective of this project is to implement a backend-focused architecture while still providing a functional frontend for end users.
 
-## 📌 Features
+# Features
 
-### 🔐 Backend (Core Focus)
+## Backend (Core Focus)
 * **User Authentication & Authorization** (JWT-based login/signup)
 * **Product Management** (add, update, delete charms – admin only)
 * **Order Management** (place orders, track status)
@@ -12,7 +12,7 @@ A full-stack web application designed to showcase and sell handmade charms onlin
 * **Database Integration** (persistent data storage)
 * **Validation & Error Handling** for secure and reliable backend
 
-### 🎨 Frontend (Minimal but Functional)
+## Frontend (Minimal but Functional)
 
 * Homepage with charms listing
 * Product details page
@@ -22,7 +22,7 @@ A full-stack web application designed to showcase and sell handmade charms onlin
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 **Backend**
 
@@ -44,16 +44,16 @@ A full-stack web application designed to showcase and sell handmade charms onlin
 
 ---
 
-## 🚀 Getting Started
+# Getting Started
 
-### 1️⃣ Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/charms-store.git
 cd charms-store
 ```
 
-### 2️⃣ Setup Backend
+## Setup Backend
 
 ```bash
 cd backend
@@ -74,7 +74,7 @@ Run server:
 npm run dev
 ```
 
-### 3️⃣ Setup Frontend
+## Setup Frontend
 
 ```bash
 cd ../frontend
@@ -84,34 +84,34 @@ npm start
 
 ---
 
-## 📡 API Endpoints
+# API Endpoints
 
-### Auth
+## Auth
 
 * `POST /api/auth/register` – Register new user
 * `POST /api/auth/login` – Login user
 
-### Products
+## Products
 
 * `GET /api/products` – Get all charms
 * `POST /api/products` – Add new charm (admin)
 * `PUT /api/products/:id` – Update charm (admin)
 * `DELETE /api/products/:id` – Delete charm (admin)
 
-### Cart
+## Cart
 
 * `POST /api/cart` – Add to cart
 * `GET /api/cart` – Get user cart
 * `DELETE /api/cart/:id` – Remove from cart
 
-### Orders
+## Orders
 
 * `POST /api/orders` – Place order
 * `GET /api/orders` – Get user orders
 
 ---
 
-## 🧩 Future Improvements
+# Future Improvements
 
 * Payment gateway integration (Stripe/PayPal)
 * Search & filters for products
@@ -121,8 +121,7 @@ npm start
 
 ---
 
-## 👩‍💻 Author
-
+# Author
 **Anga’s Gallery** – Handmade charms collection
 By Gannon Mossang
 
